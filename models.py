@@ -6,7 +6,7 @@ from torch.nn import functional as F
 import modules
 import commons
 import attentions
-import monotonic_align
+#import monotonic_align
 
 
 class DurationPredictor(nn.Module):
